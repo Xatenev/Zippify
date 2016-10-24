@@ -1,0 +1,23 @@
+{
+  "name": "zippify",
+  "version": "1.0.0",
+  "description": "Zippify provides an API to store files in .zip format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xatenev/Zippify.git"
+  },
+  "keywords": [
+    "zip",
+    "api"
+  ],
+  "author": "Gerdt Steltner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xatenev/Zippify/issues"
+  },
+  "homepage": "https://github.com/Xatenev/Zippify#readme"
+}
