@@ -121,4 +121,4 @@ app.post('/api/create/:name', upload.array('files'), function (req, res) {
 });
 
 
-app.listen(process.env.port || 8888);
+app.listen(process.env.PORT || 8888);
